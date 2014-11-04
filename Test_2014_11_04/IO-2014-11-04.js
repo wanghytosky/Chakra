@@ -1,15 +1,14 @@
-var iconv=require("iconv-lite");
-process.nextTick(function()
-{
-	var arr=iconv.encode("nextTick延迟执行",'gbk');
-	console.log(arr);
-});
-
+//nextTick鎵ц鐨勪紭鍏堢骇楂樹簬setImmediate
 setImmediate(function()
 {	
-	var arr=iconv.encode("setImmediate延迟执行",'gbk');
-	console.log(arr);
+	console.log("setImmediate");
 });
-var arr=iconv.encode("正常执行",'gbk');
-console.log(arr);
+process.nextTick(function()
+{
+	console.log("nextTick");
+});
+
+console.log("normal");
+
+
 
