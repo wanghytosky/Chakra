@@ -2,7 +2,7 @@
 var url=require('url');
 var qs=require('querystring');
 //全局数据存储
-var proverbs=[“事实胜于雄辩”,"there is a will,there is a way","功夫深铁成针"];
+var proverbs=["事实胜于雄辩","there is a will,there is a way","功夫深铁成针"];
 //创建web服务器
 http.createServer(onRequest).listen(8888);
 console.log("服务已经启动...");
@@ -11,7 +11,7 @@ console.log("服务已经启动...");
 function onRequest(request,response)
 {
 	var pathname=url.parse(request.url).pathname;
-	console.log("请求"+pathname+"接收.")；
+	//console.log("请求"+pathname+"接收.")；
 	if(pathname==="/"||pathname==="/index"||pathname==="/proverb")
 	{
 		getProverb(response);
