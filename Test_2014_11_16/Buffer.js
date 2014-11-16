@@ -14,3 +14,12 @@ buf[30]=300;
 console.log(buf[30]);
 buf[40]=3.1415;
 console.log(buf[40]);
+
+var iconv_lite=require('iconv-lite');
+
+//Buffer转字符串
+var str=iconv_lite.decode(buf,'win1251');
+console.log(str);
+//字符串转Buffer
+var buf=iconv_lite.encode("简单的字符串输入实例","win1251");
+console.log(buf.toString());
