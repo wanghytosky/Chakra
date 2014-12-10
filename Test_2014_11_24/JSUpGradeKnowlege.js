@@ -36,6 +36,19 @@ function GlobalArgument()
 }
 alert("全局变量a值:"+a);
 
+//9.三种类型强制转换方法:Boolean(value)、Number(value)、String(value),
+//返回值类型(即用typeof运算符)都是原始类型的值
+//Boolean(value):只有value值为null或0时才为false，否则为true
+//Number(value):value为非数字时，结果为NaN(意思是not a number)
+
+//10.Boolean、Number、String也可以做一个类，通过new的方式进行实例化程
+//对象，当然应用typeof后返回值是object
+
+//11.Object类是js中所有类的父类
+//如果obj是一个实例对象，一般可以通过如下方式获得该对象所拥有的所有属性，
+//而有些则不能
+
+
 
 
 
