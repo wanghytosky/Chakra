@@ -1,0 +1,14 @@
+C:\Users\wanghy\Desktop\temporary\WinF4T\SQLiteConsole_Test\SoldierInfoManager\SoldierInfoManager\bin\Debug\SoldierInfoManager.exe
+C:\Users\wanghy\Desktop\temporary\WinF4T\SQLiteConsole_Test\SoldierInfoManager\SoldierInfoManager\bin\Debug\SoldierInfoManager.pdb
+C:\Users\wanghy\Desktop\temporary\WinF4T\SQLiteConsole_Test\SoldierInfoManager\SoldierInfoManager\obj\x86\Debug\SoldierInfoManager.Properties.Resources.resources
+C:\Users\wanghy\Desktop\temporary\WinF4T\SQLiteConsole_Test\SoldierInfoManager\SoldierInfoManager\obj\x86\Debug\SoldierInfoManager.csproj.GenerateResource.Cache
+C:\Users\wanghy\Desktop\temporary\WinF4T\SQLiteConsole_Test\SoldierInfoManager\SoldierInfoManager\obj\x86\Debug\SoldierInfoManager.exe
+C:\Users\wanghy\Desktop\temporary\WinF4T\SQLiteConsole_Test\SoldierInfoManager\SoldierInfoManager\obj\x86\Debug\SoldierInfoManager.pdb
+C:\Users\wanghy\Desktop\temporary\WinF4T\SQLiteConsole_Test\SoldierInfoManager\SoldierInfoManager\obj\x86\Debug\SoldierInfoManager.csprojResolveAssemblyReference.cache
+C:\Users\wanghy\Desktop\temporary\WinF4T\SQLiteConsole_Test\SoldierInfoManager\SoldierInfoManager\obj\x86\Debug\SoldierInfoManager.Form1.resources
+C:\Users\wanghy\Desktop\temporary\WinF4T\SQLiteConsole_Test\SoldierInfoManager\SoldierInfoManager\bin\Debug\SoldierInfoManager.exe.config
+C:\Users\wanghy\Desktop\temporary\WinF4T\SQLiteConsole_Test\SoldierInfoManager\SoldierInfoManager\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\wanghy\Desktop\temporary\WinF4T\SQLiteConsole_Test\SoldierInfoManager\SoldierInfoManager\bin\Debug\office.dll
+C:\Users\wanghy\Desktop\temporary\WinF4T\SQLiteConsole_Test\SoldierInfoManager\SoldierInfoManager\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\wanghy\Desktop\temporary\WinF4T\SQLiteConsole_Test\SoldierInfoManager\SoldierInfoManager\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\wanghy\Desktop\temporary\WinF4T\SQLiteConsole_Test\SoldierInfoManager\SoldierInfoManager\bin\Debug\office.xml
